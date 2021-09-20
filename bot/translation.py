@@ -5,12 +5,12 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i>ഞാൻ movies world hd grupil filim കൊടുക്കുന്ന bot ആണ് എന്നെ ഇദ്ദേഹം ആണ് ഉണ്ടാക്കിയത് @Botsvillage
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+എന്നെ നിങ്ങൾക്ക് വേറെ ഗ്രുപ്പുകളിലൊന്നും add ചെയ്യാൻ പറ്റില്ല 🔥🔥😝
 
 For More Details Click Help Button Below..
-@CrazyBotsz
+@minnaltv
 </i>"""    
     
     HELP_TEXT = """
@@ -42,13 +42,12 @@ For More Details Click Help Button Below..
             -> <code>Configure</code> - Button Will Helps You To Change No. of Pages/ Buttons Per Page/ Total Result Without Acutally Editing The Repo... Also It Provide Option To Enable/Disable For Showing Invite Link In Each Results
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
-            
-@CrazyBotsz
+     
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/Botsvillage">MW HD</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
