@@ -64,9 +64,9 @@ async def cb_navg(bot, update: CallbackQuery):
     
     # show_invite = (False if pm_file_chat == True else show_invite) # turn show_invite to False if pm_file_chat is True
 
-    results = FIND.get(query).get("results")
+    results = FIND.get(reqest).get("results")
     leng = FIND.get(query).get("total_len")
-    max_pages = FIND.get(query).get("max_pages")
+    max_pages = FIND.get(query).get("10_pages")
     
     try:
         temp_results = results[index_val].copy()
